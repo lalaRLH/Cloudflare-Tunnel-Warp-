@@ -1,0 +1,1 @@
+Considering the commands issued by the Cloudflare WARP Web App during setup only work on AMD64 systemtypes - including a .sh file that will deploy the cloudflare-warp onto a RaspberryPi running Raspian x64 bit.
